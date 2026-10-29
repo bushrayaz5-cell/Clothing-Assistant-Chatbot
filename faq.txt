@@ -1,0 +1,51 @@
+﻿question,answer
+What products do you sell?,We offer a range of clothing products. Please check our product catalogue for current items.
+What types of clothing are available?,"Our collection may include casual wear, formal wear, dresses, shirts, and trousers. Availability depends on the current catalogue."
+How can I find a product's price?,Please check the product listing or contact customer support for the current price.
+Do you have dresses under Rs. 3000?,Please check our current product catalogue for dresses within your budget. Prices and availability may change.
+What sizes do you offer?,Available sizes depend on the product. Please check the size options shown on the product listing.
+How do I choose the right size?,Please review the product's size chart and compare it with your measurements. Contact support if you need help.
+Do you have a size chart?,"Please check the size chart on the relevant product page. If one is not available, contact customer support."
+Are all sizes available for every product?,"No, size availability can vary by product. Please check the current listing or contact support."
+What colors are available?,Available colors depend on the product. Please check the product listing for current options.
+Can I see product photos?,Please view the images on the product listing. Contact support if you need more information about an item.
+Is a product currently in stock?,Please check the current product listing or contact support to confirm stock availability.
+Will an out-of-stock item be restocked?,Restock dates depend on the product. Please contact customer support for the latest information.
+How do I place an order?,"Choose your product and options, add it to your cart, and follow the checkout instructions."
+Can I change my order after placing it?,Order changes may depend on processing status. Contact customer support as soon as possible.
+How can I cancel my order?,Please contact customer support promptly to ask whether your order can still be cancelled.
+How long does delivery take?,Delivery time depends on your location and the order. Please check the delivery information provided at checkout.
+What are your delivery charges?,Delivery charges depend on the delivery location and order details. Check the amount shown at checkout.
+Do you deliver across Pakistan?,Please check the available delivery locations at checkout or contact customer support to confirm service to your area.
+Can I track my order?,"If tracking is available, use the tracking details provided after dispatch. Otherwise, contact customer support."
+My order has not arrived. What should I do?,"Please check your estimated delivery date and tracking details. If the order is delayed, contact customer support with your order number."
+What payment methods do you accept?,Available payment methods are shown at checkout. Please check there for the current options.
+Do you offer cash on delivery?,Cash on delivery availability depends on the brand's current policy and your location. Please check at checkout.
+Is online payment safe?,"Use only the official payment options provided at checkout, and never share your password or one-time verification code."
+Can I get a payment receipt?,Please check your order confirmation or payment confirmation. Contact support if you need help locating a receipt.
+What is your return policy?,Return eligibility and time limits depend on the brand's official policy. Please check the policy page or contact support before returning an item.
+Can I return an item that does not fit?,Please check the official return policy. Eligibility may depend on the item's condition and the return window.
+Can I exchange a product for another size?,Please contact customer support to confirm whether a size exchange is available for your item.
+Can I exchange a product for another color?,Color exchanges depend on stock and the brand's policy. Contact support to confirm availability.
+What condition should a returned item be in?,"Check the official return policy for condition requirements. Keep the item, tags, and packaging until you confirm the requirements."
+How do I request a refund?,Contact customer support with your order number and explain the issue. Refund eligibility and timing depend on the official policy.
+How long does a refund take?,Refund timing depends on the payment method and the brand's policy. Contact support for an update on your case.
+What should I do if I receive a damaged item?,"Take clear photos of the item and packaging, keep your order details, and contact customer support promptly."
+What if I receive the wrong item?,Please contact customer support with your order number and photos of the item received so the team can assist.
+Can I return a worn item?,Return eligibility for worn items depends on the official policy. Please contact support before sending anything back.
+Are sale items returnable?,Sale-item return rules depend on the official policy. Please check the terms of the sale or contact support.
+Do you offer discounts?,"Current discounts, if any, are announced through official brand channels or shown on the product page."
+Do you have a sale right now?,Please check the current website or official social media pages for active sales and promotions.
+Can I use more than one discount code?,Discount-code rules depend on the promotion. Please review the terms shown with the code or at checkout.
+How can I contact customer support?,"Please use the official contact details published by the brand. Replace this answer with your actual support email, phone number, or social media account."
+What are your customer support hours?,Please check the brand's official contact page for current support hours.
+Can I speak to a human representative?,"Yes, please contact the brand through its official support channel for help from a team member."
+Can I order through social media?,Ordering options depend on the brand. Please use only the official website or verified social media account.
+Do you sell gift cards?,Please check the current catalogue or contact support to confirm whether gift cards are available.
+How should I wash my clothing item?,Follow the care label attached to the garment. Care instructions can differ by fabric and product.
+Will the color look exactly like the photo?,Colors may look slightly different because of lighting and screen settings. Check the product description for details.
+What fabric is this product made from?,Fabric details vary by product. Please check the product description or contact support if the information is missing.
+Are product measurements exact?,Measurements and fit can vary slightly. Please refer to the size chart and product description.
+Can I reserve an item?,Reservation options depend on the brand's current process. Please contact customer support to ask.
+Can you guarantee delivery by a specific date?,A specific delivery date cannot be guaranteed unless the brand confirms it. Check the delivery estimate at checkout.
+I have another question. Can you help?,"Of course! Please describe your question, and I will help using the available brand information. For details not listed here, contact customer support."
